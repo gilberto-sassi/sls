@@ -1,0 +1,9 @@
+\babel@toc {portuguese}{}
+\beamer@sectionintoc {1}{Regress\IeC {\~a}o linear simples}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Encontrando o intercepto e a inclina\IeC {\c c}\IeC {\~a}o}{5}{0}{1}
+\beamer@subsectionintoc {1}{2}{Teste de hip\IeC {\'o}teses}{8}{0}{1}
+\beamer@subsectionintoc {1}{3}{Intervalo de confian\IeC {\c c}a para o intercepto e a inclina\IeC {\c c}\IeC {\~a}o.}{14}{0}{1}
+\beamer@subsectionintoc {1}{4}{Intervalo de confian\IeC {\c c}a para novas observa\IeC {\c c}\IeC {\~o}es.}{15}{0}{1}
+\beamer@subsectionintoc {1}{5}{An\IeC {\'a}lise de vari\IeC {\^a}ncia}{16}{0}{1}
+\beamer@subsectionintoc {1}{6}{An\IeC {\'a}lise de res\IeC {\'\i }duos.}{18}{0}{1}
+\beamer@subsectionintoc {1}{7}{Exemplo}{19}{0}{1}

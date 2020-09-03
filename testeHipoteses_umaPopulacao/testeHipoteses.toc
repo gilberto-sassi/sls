@@ -1,0 +1,14 @@
+\babel@toc {portuguese}{}
+\beamer@sectionintoc {1}{Introdu\IeC {\c c}\IeC {\~a}o}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Conceitos iniciais}{2}{0}{1}
+\beamer@sectionintoc {2}{Teste de hip\IeC {\'o}teses deste curso}{12}{0}{2}
+\beamer@subsectionintoc {2}{1}{Passos para testar $H_0$ e $H_1$.}{13}{0}{2}
+\beamer@sectionintoc {3}{Teste para $\mu $ quando $N(\mu , \sigma ^2)$ com $\sigma ^2$ conhecida (Teste Z).}{14}{0}{3}
+\beamer@subsectionintoc {3}{1}{Poder e tamanho do teste.}{26}{0}{3}
+\beamer@sectionintoc {4}{Teste para $\mu $ quando $N(\mu , \sigma ^2)$ com $\sigma ^2$ desconhecida (Teste t).}{44}{0}{4}
+\beamer@subsectionintoc {4}{1}{Poder e tamanho da amostra.}{56}{0}{4}
+\beamer@sectionintoc {5}{Teste para $\sigma $ para $N(\mu , \sigma ^2)$.}{74}{0}{5}
+\beamer@subsectionintoc {5}{1}{Poder e tamanho da amostra.}{87}{0}{5}
+\beamer@sectionintoc {6}{Teste para propor\IeC {\c c}\IeC {\~a}o: $p$ ($n \geq 40$).}{105}{0}{6}
+\beamer@subsectionintoc {6}{1}{Poder e tamanho da amostra.}{118}{0}{6}
+\beamer@sectionintoc {7}{Roteiro para testes de hip\IeC {\'o}teses: uma vari\IeC {\'a}vel ou popula\IeC {\c c}\IeC {\~a}o.}{137}{0}{7}

@@ -1,0 +1,22 @@
+\frametitle{Tamanho da amostra: $H_0: \sigma \leq \sigma _0$ e $H_1: \sigma > \sigma _0$.}
+
+\normalsize
+\begin{block}{Solução}
+	\textbf{Passo 1)} Temos as seguintes hipóteses: $H_0: \sigma^2 \leq 0,5^2$ e $H_1: \sigma^2 > 0,5^2$;
+	
+	\textbf{Passo 2)} Nível de significância $\alpha = 5\%$;
+	
+	Como a variância populacional é $\sigma=0,75$, poder $99\%$, $\sigma=0,75$ e $\sigma_0 = 0,5$.
+	
+	Então o tamanho da amostra é solução em $n$ da equação abaixo:
+	$$1-\beta=0,99 =1- P \left( \chi_{n-1}^2 \leq \chi_{1-\alpha;n-1}^2 \frac{\sigma_0^2}{\sigma_1^2} \right) =1- P \left( \chi_{n-1}^2 \leq \chi_{0,95;n-1}^2 \frac{0,5^2}{0,75^2} \right).$$
+	
+	Então o tamanho \sout{mínimo} da amostra deve ser $n=53$.
+\end{block}
+
+\begin{lstlisting}[language = C, caption = Código no R.]
+pwr_sigma_1pop(sigma = 0.75, sigma0 = 0.5, n = NULL, pwr = 0.99,
+		alternative = "greater", sig_level = 0.05)
+\end{lstlisting}
+
+\normalsize

@@ -1,0 +1,13 @@
+\babel@toc {portuguese}{}
+\beamer@sectionintoc {1}{Introdu\IeC {\c c}\IeC {\~a}o: fen\IeC {\^o}meno aleat\IeC {\'o}rio, espa\IeC {\c c}o amostral e evento.}{2}{0}{1}
+\beamer@sectionintoc {2}{Maneira de construir probabilidade}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Princ\IeC {\'\i }pio da equiprobabilidade}{5}{0}{2}
+\beamer@subsectionintoc {2}{2}{Probabilidade frequentista}{6}{0}{2}
+\beamer@subsectionintoc {2}{3}{Probabilidade subjetiva}{7}{0}{2}
+\beamer@subsectionintoc {2}{4}{Suposi\IeC {\c c}\IeC {\~a}o te\IeC {\'o}rica}{8}{0}{2}
+\beamer@sectionintoc {3}{Propriedades de probabilidade}{9}{0}{3}
+\beamer@subsectionintoc {3}{1}{Regra da adi\IeC {\c c}\IeC {\~a}o de probabilidades}{9}{0}{3}
+\beamer@sectionintoc {4}{Probabilidade condicional e independ\IeC {\^e}ncia}{10}{0}{4}
+\beamer@subsectionintoc {4}{1}{Independ\IeC {\^e}ncia de eventos}{14}{0}{4}
+\beamer@subsectionintoc {4}{2}{Teorema da probabilidade total}{17}{0}{4}
+\beamer@subsectionintoc {4}{3}{Teorema de Bayes}{21}{0}{4}

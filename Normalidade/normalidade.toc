@@ -1,0 +1,4 @@
+\babel@toc {portuguese}{}
+\beamer@sectionintoc {1}{Verifica\IeC {\c c}\IeC {\~a}o da normalidade.}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Gr\IeC {\'a}fico de quantis}{5}{0}{1}
+\beamer@subsectionintoc {1}{2}{Teste de Normalidade: Kolmogorov-Smirnov}{11}{0}{1}

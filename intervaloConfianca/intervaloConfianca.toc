@@ -1,0 +1,18 @@
+\babel@toc {portuguese}{}
+\beamer@sectionintoc {1}{Estima\IeC {\c c}\IeC {\~a}o pontual}{2}{0}{1}
+\beamer@sectionintoc {2}{Estima\IeC {\c c}\IeC {\~a}o intervalar -- popula\IeC {\c c}\IeC {\~a}o com distribui\IeC {\c c}\IeC {\~a}o normal e $\sigma ^2$ conhecida}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Tamanho da amostra}{10}{0}{2}
+\beamer@subsectionintoc {2}{2}{Intervalo unilateral de confian\IeC {\c c}a para $\mu $}{12}{0}{2}
+\beamer@sectionintoc {3}{Estima\IeC {\c c}\IeC {\~a}o intervalar -- popula\IeC {\c c}\IeC {\~a}o com distribui\IeC {\c c}\IeC {\~a}o normal e $\sigma ^2$ desconhecida}{14}{0}{3}
+\beamer@subsectionintoc {3}{1}{Intervalo unilateral de confian\IeC {\c c}a para $\mu $}{18}{0}{3}
+\beamer@sectionintoc {4}{Estima\IeC {\c c}\IeC {\~a}o intervalar para $\sigma ^2$ para distribui\IeC {\c c}\IeC {\~a}o normal}{20}{0}{4}
+\beamer@subsectionintoc {4}{1}{Intervalo unilateral de confian\IeC {\c c}a para $\sigma ^2$}{24}{0}{4}
+\beamer@sectionintoc {5}{Estima\IeC {\c c}\IeC {\~a}o intervalar para $\mu $ para distribui\IeC {\c c}\IeC {\~a}o exponencial}{26}{0}{5}
+\beamer@subsectionintoc {5}{1}{Intervalo unilateral de confian\IeC {\c c}a para $\mu $}{28}{0}{5}
+\beamer@sectionintoc {6}{Intervalos de confian\IeC {\c c}a para amostras grandes $n \geq 40$}{30}{0}{6}
+\beamer@subsectionintoc {6}{1}{Intervalo para propor\IeC {\c c}\IeC {\~a}o (Bernoulli)}{30}{0}{6}
+\beamer@subsectionintoc {6}{2}{Tamanho da amostra}{32}{0}{6}
+\beamer@subsectionintoc {6}{3}{Intervalo unilateral de confian\IeC {\c c}a para $p$}{34}{0}{6}
+\beamer@subsectionintoc {6}{4}{Intervalo de confian\IeC {\c c}a para $\mu $ para outras distribui\IeC {\c c}\IeC {\~o}es}{36}{0}{6}
+\beamer@subsectionintoc {6}{5}{Intervalo unilateral de confian\IeC {\c c}a para $\mu $ para outras distribui\IeC {\c c}\IeC {\~o}es}{38}{0}{6}
+\beamer@sectionintoc {7}{Roteiro para construir intervalo de confian\IeC {\c c}a}{40}{0}{7}

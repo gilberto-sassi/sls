@@ -1,0 +1,5 @@
+\babel@toc {brazil}{}
+\beamer@sectionintoc {1}{Motiva\IeC {\c c}\IeC {\~a}o}{2}{0}{1}
+\beamer@sectionintoc {2}{Defin\IeC {\c c}\IeC {\~a}o}{3}{0}{2}
+\beamer@sectionintoc {3}{Modelos discretos}{11}{0}{3}
+\beamer@sectionintoc {4}{Medidas de posi\IeC {\c c}\IeC {\~a}o e de dispers\IeC {\~a}o para vari\IeC {\'a}veis aleat\IeC {\'o}rias discretas}{20}{0}{4}

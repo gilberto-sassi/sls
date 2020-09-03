@@ -1,0 +1,9 @@
+\babel@toc {portuguese}{}
+\beamer@sectionintoc {1}{Programa de curso}{2}{0}{1}
+\beamer@sectionintoc {2}{Crit\IeC {\'e}rio de avalia\IeC {\c c}\IeC {\~a}o, refer\IeC {\^e}ncias e contato}{3}{0}{2}
+\beamer@sectionintoc {3}{Estat\IeC {\'\i }stica descritiva}{6}{0}{3}
+\beamer@sectionintoc {4}{Estat\IeC {\'\i }stica Descritiva}{11}{0}{4}
+\beamer@sectionintoc {5}{Vari\IeC {\'a}vel Qualitativa (Nominal ou Ordinal)}{13}{0}{5}
+\beamer@sectionintoc {6}{Vari\IeC {\'a}vel Quantitativa Descritiva}{16}{0}{6}
+\beamer@sectionintoc {7}{Vari\IeC {\'a}vel Quantitativa Cont\IeC {\'\i }nua}{18}{0}{7}
+\beamer@subsectionintoc {7}{1}{Histograma}{21}{0}{7}

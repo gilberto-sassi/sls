@@ -1,0 +1,30 @@
+\babel@toc {portuguese}{}
+\beamer@sectionintoc {1}{Organiza\IeC {\c c}\IeC {\~a}o dos slides}{2}{0}{1}
+\beamer@sectionintoc {2}{Algumas nomenclaturas}{3}{0}{2}
+\beamer@sectionintoc {3}{Duas popula\IeC {\c c}\IeC {\~o}es normais: comparando $\mu _1$ e $\mu _2$.}{4}{0}{3}
+\beamer@subsectionintoc {3}{1}{Vari\IeC {\^a}ncias conhecidas}{4}{0}{3}
+\beamer@subsectionintoc {3}{2}{Poder e tamanho da amostra.}{17}{0}{3}
+\beamer@subsectionintoc {3}{3}{Intervalo de confian\IeC {\c c}a para diferen\IeC {\c c}a de m\IeC {\'e}dias: $\Delta = \mu _1 - \mu _2$.}{34}{0}{3}
+\beamer@sectionintoc {4}{Duas popula\IeC {\c c}\IeC {\~o}es normais: compara\IeC {\c c}\IeC {\~a}o de vari\IeC {\^a}ncias.}{38}{0}{4}
+\beamer@subsectionintoc {4}{1}{Poder e tamanho da amostra.}{51}{0}{4}
+\beamer@subsectionintoc {4}{2}{Intervalo de confian\IeC {\c c}a para diferen\IeC {\c c}a de m\IeC {\'e}dias: $\nicefrac {\sigma _1^2}{\sigma _2^2}$.}{69}{0}{4}
+\beamer@sectionintoc {5}{Duas popula\IeC {\c c}\IeC {\~o}es normais: comparando $\mu _1$ e $\mu _2$ -- especialmente para $n \leq 40$.}{72}{0}{5}
+\beamer@subsectionintoc {5}{1}{Vari\IeC {\^a}ncias desconhecidas e iguais.}{72}{0}{5}
+\beamer@subsectionintoc {5}{2}{Poder e tamanho da amostra.}{83}{0}{5}
+\beamer@subsectionintoc {5}{3}{Intervalo de confian\IeC {\c c}a para diferen\IeC {\c c}a de m\IeC {\'e}dias: $\mu _1 - \mu _2$. (Vari\IeC {\^a}ncias iguais e desconhecidas).}{89}{0}{5}
+\beamer@sectionintoc {6}{Duas popula\IeC {\c c}\IeC {\~o}es normais: comparando $\mu _1$ e $\mu _2$ -- especialmente para $n \leq 40$.}{93}{0}{6}
+\beamer@subsectionintoc {6}{1}{Vari\IeC {\^a}ncias desconhecidas e diferentes.}{93}{0}{6}
+\beamer@subsectionintoc {6}{2}{Poder e tamanho da amostra.}{108}{0}{6}
+\beamer@subsectionintoc {6}{3}{Intervalo de confian\IeC {\c c}a para diferen\IeC {\c c}as de m\IeC {\'e}dias: $\mu _1 - \mu _2$. (Vari\IeC {\^a}ncias diferentes e desconhecidas.)}{120}{0}{6}
+\beamer@sectionintoc {7}{Teste t pareado}{123}{0}{7}
+\beamer@subsectionintoc {7}{1}{Poder e tamanho da amostra.}{135}{0}{7}
+\beamer@subsectionintoc {7}{2}{Intervalo de confian\IeC {\c c}a para $\mu _D = \mu _1 - \mu _2$.}{153}{0}{7}
+\beamer@sectionintoc {8}{Comparando $p_1$ e $p_2$ para $n \geq 40$.}{156}{0}{8}
+\beamer@subsectionintoc {8}{1}{Poder e tamanho da amostra.}{168}{0}{8}
+\beamer@subsectionintoc {8}{2}{Intervalo de confian\IeC {\c c}a para diferen\IeC {\c c}as de propor\IeC {\c c}\IeC {\~o}es: $p_1-p_2$.}{186}{0}{8}
+\beamer@sectionintoc {9}{Associa\IeC {\c c}\IeC {\~a}o entre vari\IeC {\'a}veis qualitativas}{189}{0}{9}
+\beamer@subsectionintoc {9}{1}{Poder e tamanho da amostra.}{208}{0}{9}
+\beamer@sectionintoc {10}{Associa\IeC {\c c}\IeC {\~a}o entre vari\IeC {\'a}veis quantitativas}{214}{0}{10}
+\beamer@subsectionintoc {10}{1}{Coeficiente de correla\IeC {\c c}\IeC {\~a}o linear de Pearson}{220}{0}{10}
+\beamer@subsectionintoc {10}{2}{Poder e tamanho da amostra.}{238}{0}{10}
+\beamer@subsectionintoc {10}{3}{Intervalo de Confian\IeC {\c c}a para $\rho $.}{256}{0}{10}

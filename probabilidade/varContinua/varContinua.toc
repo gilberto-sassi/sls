@@ -1,0 +1,14 @@
+\babel@toc {portuguese}{}
+\beamer@sectionintoc {1}{Motiva\IeC {\c c}\IeC {\~a}o}{2}{0}{1}
+\beamer@sectionintoc {2}{Defini\IeC {\c c}\IeC {\~a}o}{3}{0}{2}
+\beamer@sectionintoc {3}{Medidas de dispers\IeC {\~a}o e e de posi\IeC {\c c}\IeC {\~a}o: vari\IeC {\'a}veis aleat\IeC {\'o}rias cont\IeC {\'\i }nuas}{7}{0}{3}
+\beamer@sectionintoc {4}{Principais modelos para vari\IeC {\'a}veis aleat\IeC {\'o}rias cont\IeC {\'\i }nuas}{8}{0}{4}
+\beamer@subsectionintoc {4}{1}{Modelo uniforme cont\IeC {\'\i }nuo}{8}{0}{4}
+\beamer@subsectionintoc {4}{2}{Modelo exponencial}{13}{0}{4}
+\beamer@subsectionintoc {4}{3}{Modelo normal}{17}{0}{4}
+\beamer@sectionintoc {5}{Aproxima\IeC {\c c}\IeC {\~a}o Normal para o Modelo Binomial}{20}{0}{5}
+\beamer@sectionintoc {6}{Distribui\IeC {\c c}\IeC {\~a}o amostral}{22}{0}{6}
+\beamer@sectionintoc {7}{Teorema central do limite}{26}{0}{7}
+\beamer@subsectionintoc {7}{1}{Distribui\IeC {\c c}\IeC {\~a}o Bernoulli}{29}{0}{7}
+\beamer@subsectionintoc {7}{2}{Distribui\IeC {\c c}\IeC {\~a}o poison}{30}{0}{7}
+\beamer@subsectionintoc {7}{3}{Distribui\IeC {\c c}\IeC {\~a}o exponencial}{31}{0}{7}

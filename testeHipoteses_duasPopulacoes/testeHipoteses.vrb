@@ -1,0 +1,33 @@
+\frametitle{Tamanho da amostra: $H_0:\mbox {Não existe associação}$ e $H_1:\mbox {Existe associação} $.}
+
+\scriptsize
+\begin{block}{Solução}
+	\textbf{Passo 1)} Queremos testar as seguintes hipóteses:
+	\begin{itemize}
+		\item $H_0:$ recuperação funcional e o tipo de hospital não estão associadas;
+		\item $H_1:$ recuperação funcional e o tipo de hospital estão associadas.
+	\end{itemize}
+	
+	\textbf{Passo 2)} Nível de significância $\alpha=5\%$;
+	
+	\textbf{Passo 3)} Rejeitamos $H_0$ se $\chi^2$ for grande. Ou seja, $RC =\left\{ \chi^2 \mid \chi^2 > \chi^2_{1-\alpha; (r-1)\cdot (s-1)} \right\}$;
+	
+	\textbf{Passo 4)} Vamos encontrar o valor críticos:
+	\begin{itemize}
+		\item $P\left( \chi^2_{(r-1)\cdot (s-1)} \leq \chi^2_{1-\alpha;(r-1)\cdot (s-1)} \right) = P\left( \chi^2_{(2-1)\cdot (3-1)} \leq \chi^2_{0,95;(2-1)\cdot (3-1)} \right) = \allowbreak 1-\alpha=0,95$, então $\chi^2_{0,95;2} = 5,9914645$.
+	\end{itemize}
+	
+	Como $1-\beta=0,99$, $r=2$, $s=3$, $w=0,3$ e $\lambda = n \cdot w^2 = n \cdot 0,3^2$, então o poder do teste é dado por
+	\begin{align*}
+	1-\beta &= 0,99 = 1 - P\left( \chi_{(r-1)\cdot (s-1)}^2(n \cdot w^2) \leq \chi_{1-\alpha; (r-1)\cdot (s-1)}^2 \right)\\
+	&= 1 - P\left( \chi_{2}^2(n \cdot 0,3^2) \leq \chi_{0,95; 2}^2 \right) = 1 - P\left( \chi_{2}^2(n \cdot 0,3^2) \leq 5,9914645 \right)
+	\end{align*}
+\end{block}
+Então, precisamos acompanhar $n=238$ pacientes.
+
+\begin{lstlisting}[language = C, caption = Código no R.]
+pwr_chisq_test_association(es = 0.3, nrow = 2, ncol = 3, n = NULL,
+		pwr = 0.99, sig_level = 0.05)
+\end{lstlisting}
+\normalsize
+
