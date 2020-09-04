@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.2.5)  9 JUN 2020 14:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.2.5)  4 SEP 2020 13:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -358,12 +358,12 @@ Package pdftex.def Info: figure/Idade.png  used on input line 174.
  [2] [3 <./figure/X.png (PNG copy)>] [4 <./figure/Idade.png (PNG copy)>] [5] (.
 /lista_est_descr.aux) ) 
 Here is how much of TeX's memory you used:
- 3843 strings out of 492609
- 50804 string characters out of 6131463
- 139734 words of memory out of 5000000
+ 3850 strings out of 492609
+ 50885 string characters out of 6131463
+ 139759 words of memory out of 5000000
  7678 multiletter control sequences out of 15000+600000
  9362 words of font info for 34 fonts, out of 8000000 for 9000
- 1143 hyphenation exceptions out of 8191
+ 1150 hyphenation exceptions out of 8191
  41i,9n,29p,422b,335s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.e
 nc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></u
