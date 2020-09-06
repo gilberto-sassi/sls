@@ -1,0 +1,150 @@
+\documentclass[9pt]{beamer}
+
+%%pacotes referentes ao Beamer
+%\useoutertheme{split}
+%\setbeamertemplate{navigation symbols}{}
+
+%\usetheme{beamertheme}
+%\usebeamercolor{beamer-color name}
+
+%\usetheme{Boadilla}
+%\usecolortheme{dove}
+
+\usetheme{CambridgeUS}
+\usecolortheme{beaver}
+
+% \usetheme{pittsburgh}
+% \usecolortheme{dolphin}
+%\usecolortheme{dove}
+%\usecolortheme{seahorse}
+
+%\usetheme{Montpellier}
+
+%number in figures an tables -- beamer
+\setbeamertemplate{caption}[numbered]
+
+%Colocar no description
+%[leftmargin=!,labelwidth=\widthof{Turma A}]
+	
+%pacotes usuais do latex
+\usepackage[portuguese]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{bm}
+\usepackage{graphicx}
+\usepackage{subfigure}
+\usepackage[round]{natbib}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows}
+\usepackage{natbib}
+\usepackage{times}
+\usepackage{calc} %computes the length of a string
+\usepackage{dsfont} %pacote para o 1 estilisado para indicadora
+\usepackage{enumerate} %permite fazer uns enumerates diferentes
+\usepackage[font=small,labelfont=bf]{caption} %permite colocar um segundo caption
+\usepackage{booktabs} % comando \toprule, \midrule e \bottomrule
+\usepackage{times} %times new roman font
+\usepackage{multirow} %comando \multirow
+\usepackage{setspace}
+\usepackage{xcolor} %texto colorido
+\usepackage{booktabs} %costumized tabs
+\usepackage{tikz}
+\usepackage{hyperref}
+
+\usetikzlibrary{decorations.pathreplacing}
+
+%código para alinhar a esquerda os itens no description
+\defbeamertemplate{description item}{align left}{\insertdescriptionitem\hfill}
+\defbeamertemplate{enumerate item}{align left}{\insertdescriptionitem\hfill}
+
+
+
+%AMS packages
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+
+%Não quebre linhas
+\binoppenalty=\maxdimen
+\relpenalty=\maxdimen
+
+%Comandos criados por mim
+\DeclareMathOperator*{\argmin}{arg\,min}
+
+\DeclareMathOperator*{\argmax}{arg\,max}
+
+
+\DeclareMathOperator{\espe}{E}
+
+\DeclareMathOperator{\spann}{span}
+
+\DeclareMathOperator{\cov}{Cov}
+
+\DeclareMathOperator{\vari}{Var}
+
+%Informações para o primeiro slide
+\date{}
+\title[Boas-vindas!]{Introdução ao Semestre Letivo Suplementar}
+\author[Gilberto  e Carolina]{Gilberto Pereira Sassi\\
+Cartolina Costa Mota Paraíba}
+\institute[IME -- UFBA]{Universidade Federal da Bahia \\ Instituto de Matem\'{a}tica e Estat\'{i}stica\\ Departamento de Estat\'{i}stica }
+
+\begin{document}
+	
+\tikzstyle{decision} = [diamond, draw, fill=blue!20, 
+text width=4.5em, text badly centered, node distance=3cm, inner sep=0pt]
+\tikzstyle{block} = [rectangle, draw, fill=blue!20, 
+text width=5em, text centered, rounded corners, minimum height=4em]
+\tikzstyle{line} = [draw, -latex]
+\tikzstyle{cloud} = [draw, ellipse,fill=red!20, node distance=3cm,
+minimum height=2em]
+	
+%Slide inicial
+\begin{frame}{}
+	\maketitle
+\end{frame}
+
+\section{Como vai funcionar?}
+
+\begin{frame}{}
+
+\small
+\begin{block}{Atividades Síncronas}
+	\begin{description}
+		\item[Sala de bate-papo] Você pode conversar com quem estiver na sala naquele momento. Temos duas salas:
+		\begin{description}
+			\item[Quer tc?] Sala de bate-papo para qualquer assunto;
+			\item[Papo nerd!] Sala de bate-papo pra assuntos relacionados ao curso;
+		\end{description}
+		\item[Aula on-line na sala virtual] Encontro com a presença de Gilberto e Carolina, Professores/moderados do curso.
+		\begin{itemize}
+			\item Tiraremos dúvida e explicaremos conceitos.
+			\item Tolerância de 15 minutos.
+			\item As serão gravadas e ficarão disponíveis no MOODLE.
+		\end{itemize}  
+	\end{description}
+\end{block}
+\vfill
+
+\begin{block}{Atividades assíncronas}
+	Total de 3 pontos na nota final.
+	\begin{description}
+		\item[WikiStat] Recurso para construir coletivamente com um documento ou página com todos os conceitos e técnicas deste curso. Vale 0,6 pontos;
+		\item[Glossário] Coleção definições, nomenclaturas, e jargões usados em Estatística. Vale 0,6 pontos;
+		\item[Diário] \textit{Diário de bordo} em que o participante anota o que estudou e como estudou. Vale 0,6 pontos;
+		\item[Portfólio] É um resumo individual de tudo o que vocês aprendendo neste curso. Vale 0,6 pontos;
+		\item[Fórum: tire aqui suas dúvidas!] Fórum para tirar dúvidas. Vale 0,6 pontos.
+	\end{description}
+\end{block}
+
+\normalsize
+\end{frame}
+
+\section{Avaliação}
+
+\section{off-topic}
+
+\section{}
+
+
+
+\end{document}

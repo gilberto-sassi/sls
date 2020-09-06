@@ -1,0 +1,2 @@
+\babel@toc {portuguese}{}
+\beamer@sectionintoc {1}{Como vai funcionar?}{2}{0}{1}
