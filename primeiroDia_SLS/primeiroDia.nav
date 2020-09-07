@@ -5,8 +5,25 @@
 \headcommand {\sectionentry {1}{Como vai funcionar?}{2}{Como vai funcionar?}{0}}
 \headcommand {\slideentry {1}{0}{1}{2/2}{}{0}}
 \headcommand {\beamer@framepages {2}{2}}
-\headcommand {\beamer@partpages {1}{2}}
-\headcommand {\beamer@subsectionpages {3}{2}}
-\headcommand {\beamer@sectionpages {3}{2}}
-\headcommand {\beamer@documentpages {2}}
-\headcommand {\gdef \inserttotalframenumber {2}}
+\headcommand {\slideentry {1}{0}{2}{3/3}{}{0}}
+\headcommand {\beamer@framepages {3}{3}}
+\headcommand {\beamer@sectionpages {2}{3}}
+\headcommand {\beamer@subsectionpages {2}{3}}
+\headcommand {\sectionentry {2}{Avalia\IeC {\c c}\IeC {\~a}o}{4}{Avalia\IeC {\c c}\IeC {\~a}o}{0}}
+\headcommand {\slideentry {2}{0}{1}{4/4}{}{0}}
+\headcommand {\beamer@framepages {4}{4}}
+\headcommand {\beamer@sectionpages {4}{4}}
+\headcommand {\beamer@subsectionpages {4}{4}}
+\headcommand {\sectionentry {3}{Muita calma nessa hora}{5}{Muita calma nessa hora}{0}}
+\headcommand {\slideentry {3}{0}{1}{5/5}{}{0}}
+\headcommand {\beamer@framepages {5}{5}}
+\headcommand {\beamer@sectionpages {5}{5}}
+\headcommand {\beamer@subsectionpages {5}{5}}
+\headcommand {\sectionentry {4}{MOODLE: m\IeC {\~a}os na massa!}{6}{MOODLE: m\IeC {\~a}os na massa!}{0}}
+\headcommand {\slideentry {4}{0}{1}{6/6}{}{0}}
+\headcommand {\beamer@framepages {6}{6}}
+\headcommand {\beamer@partpages {1}{6}}
+\headcommand {\beamer@subsectionpages {6}{6}}
+\headcommand {\beamer@sectionpages {6}{6}}
+\headcommand {\beamer@documentpages {6}}
+\headcommand {\gdef \inserttotalframenumber {6}}
