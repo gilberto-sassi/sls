@@ -1,5 +1,7 @@
 \babel@toc {portuguese}{}
 \beamer@sectionintoc {1}{Como vai funcionar?}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Atividades s\IeC {\'\i }ncronas}{2}{0}{1}
+\beamer@subsectionintoc {1}{2}{Atividades ass\IeC {\'\i }ncronas}{3}{0}{1}
 \beamer@sectionintoc {2}{Avalia\IeC {\c c}\IeC {\~a}o}{4}{0}{2}
 \beamer@sectionintoc {3}{Muita calma nessa hora}{5}{0}{3}
 \beamer@sectionintoc {4}{MOODLE: m\IeC {\~a}os na massa!}{6}{0}{4}
