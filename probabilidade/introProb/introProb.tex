@@ -412,9 +412,9 @@ Suponha que as duas não sofrem interferência uma da outra. Qual a probabilidad
 		\item \textbf{Probabilidade}: $P(O_1) = 0,05$ e $P(O_2) = 0,1$;
 		\item O evento pelo menos uma máquina funciona é descrito por $O_1^c \cup O_2^c$, isto é,
 		\begin{align*}
-		P[O_1^c \cup O_2^c)] &= P(O_1^c ) + P (O_2^c) + P (O_1^2 \cap O_2^c) \\
-		&= (1-P(O_1))  + (1-P( O_2)) + P(O_1^c) P(O_2^c) \\
-		&=(1-0,05)  + (1-0,1) + (1-0,05) \cdot (1-0,1) = 0,995.
+		P[O_1^c \cup O_2^c)] &= P(O_1^c ) + P (O_2^c) - P (O_1^2 \cap O_2^c) \\
+		&= (1-P(O_1))  + (1-P( O_2)) - P(O_1^c) P(O_2^c) \\
+		&=(1-0,05)  + (1-0,1) - (1-0,05) \cdot (1-0,1) = 0,995.
 		\end{align*}
 		\item Note que
 		\begin{align*}
